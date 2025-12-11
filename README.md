@@ -4,7 +4,6 @@ This repository hosts the official **Cajun (CAJUN)** token logo for PulseChain (
 
 ## Files
 - `logo.png` — 256×256 transparent PNG (recommended for listings)
-- `logo.svg` — SVG wrapper embedding the PNG (for scalable sites)
 - `tokenlist.json` — ERC‑20 style token metadata used by Uniswap‑compatible token lists
 
 ## Publish with GitHub Pages
