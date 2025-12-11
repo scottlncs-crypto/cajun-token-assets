@@ -11,7 +11,7 @@ This repository hosts the official **Cajun (CAJUN)** token logo for PulseChain (
 1. Push this repo to GitHub.
 2. In **Settings → Pages**, set **Source** to `Deploy from a branch`, Branch: `main`.
 3. After it builds, your logo URL will be:
-   `https://YOUR_USERNAME.github.io/cajun-token-assets/logo.png`
+   `https://scottlncs-crypto.github.io/cajun-token-assets/logo.png`
 4. Update `logoURI` in `tokenlist.json` with your actual username.
 
 ## Submit to PulseChain Token Lists / PulseX
@@ -23,7 +23,7 @@ Provide the `tokenlist.json` entry or the `logoURI` directly, including:
   "symbol": "CAJUN",
   "decimals": 18,
   "chainId": 369,
-  "logoURI": "https://YOUR_USERNAME.github.io/cajun-token-assets/logo.png"
+  "logoURI": "https://scottlncs-crypto.github.io/cajun-token-assets/logo.png"
 }
 ```
 
